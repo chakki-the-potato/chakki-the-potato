@@ -1,5 +1,10 @@
 ## 개발자의 여정을 떠나기 위한 준비
 
+![GitHub](https://img.shields.io/badge/Chakki--the--Potato-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Project](https://img.shields.io/badge/Project-AI__Agent-7C3AED?style=for-the-badge&logoColor=white)
+![FE](https://img.shields.io/badge/FE-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![BE](https://img.shields.io/badge/BE-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### 안녕하세요! 이찬희입니다👋
 
 <!--
