@@ -1,4 +1,6 @@
-## Hi there 👋
+## 개발자의 여정을 떠나기 위한 준비
+
+### 안녕하세요! 이찬희입니다👋
 
 <!--
 **chakki-the-potato/chakki-the-potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
