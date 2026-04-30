@@ -102,7 +102,7 @@
 
 ---
 
-## 📝 Latest Posts ###([전체 글 보기](https://chakki-the-potato.github.io/Hard_Working/))
+## 📝 Latest Posts ([전체 글 보기](https://chakki-the-potato.github.io/Hard_Working/))
 
 <!-- TODO: 새 글 올라오면 직접 갱신하세요 -->
 
