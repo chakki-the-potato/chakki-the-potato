@@ -116,11 +116,9 @@
 
 ## 💬 My Quote
 
-<div align="center">
-
-### *"세상은 넓고도 넓지만 내 $\color{#A855F7}\text{자리}$ 는 있다"*
-
-</div>
+<h3 align="center">
+  <em>"세상은 넓고도 넓지만 내 $\color{#A855F7}\text{자리}$ 는 있다"</em>
+</h3>
 
 ---
 
