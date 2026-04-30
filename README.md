@@ -32,9 +32,9 @@
 
 학습과 기록으로 자라는 중인 개발자입니다.
 **LLM 기반 AI Agent**가 주된 관심사고, **React (Frontend)** 와 **FastAPI (Backend)** 로 풀스택을 다지고 있어요.
-배운 건 [`Hard_Working`](https://github.com/chakki-the-potato/Hard_Working) 블로그에 글로 남기고, 도구·아이디어는 직접 만들어 보면서 깊이를 더해가고 있습니다.
+배운 건 [`Hard_Working`](https://chakki-the-potato.github.io/Hard_Working/) 블로그에 글로 남기고, 도구·아이디어는 직접 만들어 보면서 깊이를 더해가고 있습니다.
 
-<!-- TODO: 위 문단은 자유롭게 다듬으세요. 살리고 싶은 본인 이야기 추가 가능 -->
+<!-- TODO: 위 문단은 자유롭게 다듬으세요 -->
 
 ---
 
@@ -109,21 +109,23 @@
 
 ## 📝 Latest Posts
 
-<!-- TODO: 최신 블로그 글 3개로 직접 갱신하세요 -->
+<!-- TODO: 새 글 올라오면 직접 갱신하세요 -->
 
-- 🌱 *(첫 번째 글 제목)* — [`Hard_Working`](https://github.com/chakki-the-potato/Hard_Working)
-- 🌿 *(두 번째 글 제목)* — [`Hard_Working`](https://github.com/chakki-the-potato/Hard_Working)
-- 🌳 *(세 번째 글 제목)* — [`Hard_Working`](https://github.com/chakki-the-potato/Hard_Working)
+- 🌱 [**ccusage로 Claude 사용량 한눈에 파악하기**](https://chakki-the-potato.github.io/Hard_Working/posts/programming/ccusage-claude-usage/) — *2026.04.28*
+- 🌿 [**Astro + GitHub Pages + 텔레그램 봇 — 이 블로그를 만든 구조**](https://chakki-the-potato.github.io/Hard_Working/posts/works/hard-working-stack-buildlog/) — *2026.04.28*
+- 🌳 [**Hard_Working — 학습·포트폴리오·생각을 한 공간에 쌓기로 했다**](https://chakki-the-potato.github.io/Hard_Working/posts/works/starting-hard-working-blog/) — *2026.04.28*
 
-➡️ [전체 글 보기](https://github.com/chakki-the-potato/Hard_Working)
+➡️ [전체 글 보기](https://chakki-the-potato.github.io/Hard_Working/)
 
 ---
 
-## 💬 Quote of the Day
+## 💬 My Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
-</p>
+<div align="center">
+
+### *"세상은 넓고도 넓지만 내 $\color{#A855F7}\text{자리}$ 는 있다"*
+
+</div>
 
 ---
 
@@ -133,7 +135,7 @@
   <a href="mailto:chanhee2468@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/chakki-the-potato/Hard_Working">
+  <a href="https://chakki-the-potato.github.io/Hard_Working/">
     <img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=readdotcv&logoColor=white" alt="blog" />
   </a>
   <a href="https://github.com/chakki-the-potato">
@@ -141,7 +143,7 @@
   </a>
 </p>
 
-<!-- TODO: 노출 원치 않는 이메일이면 위 링크 수정/삭제하세요 -->
+<!-- TODO: 이메일 노출 원치 않으면 위 링크 삭제 -->
 
 ---
 
