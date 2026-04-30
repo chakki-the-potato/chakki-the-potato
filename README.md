@@ -1,10 +1,3 @@
-## 개발자의 여정을 떠나기 위한 준비
-
-![GitHub](https://img.shields.io/badge/Chakki--the--Potato-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E)
-![Project](https://img.shields.io/badge/Project-AI__Agent-A855F7?style=for-the-badge&labelColor=7C3AED&logoColor=white)
-![FE](https://img.shields.io/badge/FE-React-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0EA5E9)
-![BE](https://img.shields.io/badge/BE-FastAPI-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D9488)
-
 <!-- ============================================================ -->
 <!-- 1. HERO HEADER (capsule-render wave)                          -->
 <!-- ============================================================ -->
@@ -25,6 +18,11 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=chakki-the-potato&label=Profile+views&color=7C3AED&style=for-the-badge" alt="profile views" />
 </p>
+
+![GitHub](https://img.shields.io/badge/Chakki--the--Potato-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E)
+![Project](https://img.shields.io/badge/Project-AI__Agent-A855F7?style=for-the-badge&labelColor=7C3AED&logoColor=white)
+![FE](https://img.shields.io/badge/FE-React-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0EA5E9)
+![BE](https://img.shields.io/badge/BE-FastAPI-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D9488)
 
 ---
 
