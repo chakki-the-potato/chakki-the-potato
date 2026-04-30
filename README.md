@@ -102,7 +102,7 @@
 
 ---
 
-## 📝 Latest Posts
+## 📝 Latest Posts [전체 글 보기](https://chakki-the-potato.github.io/Hard_Working/)
 
 <!-- TODO: 새 글 올라오면 직접 갱신하세요 -->
 
@@ -110,14 +110,12 @@
 - 🌿 [**Astro + GitHub Pages + 텔레그램 봇 — 이 블로그를 만든 구조**](https://chakki-the-potato.github.io/Hard_Working/posts/works/hard-working-stack-buildlog/) — *2026.04.28*
 - 🌳 [**Hard_Working — 학습·포트폴리오·생각을 한 공간에 쌓기로 했다**](https://chakki-the-potato.github.io/Hard_Working/posts/works/starting-hard-working-blog/) — *2026.04.28*
 
-➡️ [전체 글 보기](https://chakki-the-potato.github.io/Hard_Working/)
-
 ---
 
 ## 💬 My Quote
 
 <h3 align="center">
-  <em>"세상은 넓고도 넓지만 내 $\color{#A855F7}\text{자리}$ 는 있다"</em>
+  <em>"세상은 넓고도 넓지만 내 자리는 있다"</em>
 </h3>
 
 ---
